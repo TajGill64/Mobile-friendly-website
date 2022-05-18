@@ -1,0 +1,53 @@
+/*Starts the Nav bar*/
+
+nav{
+    background-color: #222222;
+    width: 100%;
+    height: 100px;
+
+}
+a{
+    float: right;
+    margin: 2%;
+    color: white;
+    margin-bottom: 1%;
+    margin-top: 4%;
+}
+/*End of NavBar*/
+
+
+
+/*Starts the image with the main title*/
+h1{
+    font-size: 500%;
+    font-family: 'oleo script', cursive;
+    color: white;
+    background-color: black;
+    width: 600px;
+    height: 300px;
+    opacity: 2;
+    margin-top: -30%;
+    margin-left: 40%;
+
+}
+/*End of image with the main title*/
+
+
+
+/*Starts with the select titles and with the paragraphs*/
+h2{
+    font-size: xx-large;
+    margin-top: 15%;
+    color: #073A8B;
+}
+p{
+    font-size: large;
+    font-family: 'oleo script', cursive;
+}
+h3{
+    font-size: xx-large;
+    color: #073A8B;
+    float: right;
+    
+}
+/*End of my CSS and my select titles and paragrapghs*/
