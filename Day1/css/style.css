@@ -39,15 +39,19 @@ h2{
     font-size: xx-large;
     margin-top: 15%;
     color: #073A8B;
+    margin-left: 5%;
 }
 p{
-    font-size: large;
+    font-size: medium;
     font-family: 'oleo script', cursive;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 h3{
     font-size: xx-large;
     color: #073A8B;
     float: right;
+    margin-right: 7%;
     
 }
 /*End of my CSS and my select titles and paragrapghs*/
